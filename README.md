@@ -76,7 +76,8 @@ The project includes an interactive Power BI dashboard designed to present HR me
 - Job Satisfaction
 - Work Experience and Tenure
 
-*Dashboard preview: Add a screenshot of your Power BI dashboard here.*
+<img width="1377" height="772" alt="image" src="https://github.com/user-attachments/assets/b91e0e81-18d2-4d57-9509-1b4a2a51971c" />
+
 
 ## Results & Business Value
 
